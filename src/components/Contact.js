@@ -58,7 +58,7 @@ function Contact() {
               </h2>
               <a
                 className="text-indigo-400 leading-relaxed"
-                href="https://gmail.com"
+                href="mailto:ravikumar078714@gmail.com"
               >
                 ravikumar078714@gmail.com
               </a>
