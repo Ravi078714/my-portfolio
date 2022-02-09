@@ -41,7 +41,7 @@ function Contact() {
             style={{ filter: "opacity(0.7)" }}
             src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d7482.925480981042!2d77.6595549994521!3d27.4804834666821!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3973715862f89103%3A0x35b9a4f1b425b730!2sShrinathpuram%20Colony%2C%20Dharamlok%20Nagar%2C%20Mathura%2C%20Uttar%20Pradesh%20281004!3m2!1d27.480665199999997!2d77.65450369999999!5e0!3m2!1sen!2sin!4v1644305096255!5m2!1sen!2sin"
           />
-          <div className="bg-gray-900 absolute flex flex-wrap py-6 rounded shadow-md z-10 m-5">
+          <div className="bg-gray-900 absolute flex flex-wrap py-6 rounded shadow-md z-10">
             <div className="lg:w-1/2 px-6 ">
               <h2 className="title-font font-semibold text-white tracking-widest text-xs ">
                 ADDRESS
