@@ -14,6 +14,23 @@ export const projects = [
       image : require("./Images/gamelife.png"),
       link: "https://github.com/Ravi078714/python/blob/6b225118453aee19c9d7905b9e27ceaa852e4daf/Game_of_life_toad.py",
   },
+  {
+      title: "My Budget Planner",
+      subtitle: "Expense Tracking ",
+      description: "In this project I learned how to break down UI into React components, how to work with state using Context Api, actions, reducers and the Dispatch function.",
+      image : require("./Images/Expense.png"),
+      link: "https://github.com/Ravi078714/Budget-Planner",
+
+  },
+  {
+    title: "Covid Tracker",
+    subtitle: "Live Covid Stats Around the World ",
+    description: "It uses an API to fetch current covid data across the world and displays it on the front-end using chart libraries/modules to display the data in a more readable format.",
+    image : require("./Images/covid.png"),
+    link: "https://github.com/Ravi078714/covidT",
+},
+
+  
 ];
 
 
@@ -23,5 +40,7 @@ export const skills = [
   {skill: "React"},
   {skill: "HTML"},
   {skill: "CSS"},
-  {skill: "Selenium"}
+  {skill: "Selenium"},
+  {skill: "Node.js"},
+  {skill: "Express"},
 ]
