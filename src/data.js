@@ -43,4 +43,17 @@ export const skills = [
   {skill: "Selenium"},
   {skill: "Node.js"},
   {skill: "Express"},
+  {skill: "Java"},
+  {skill: "AWS"},
+  {skill: "Terraform"},
+  {skill: "PostMan"},
+  {skill: "Git"},
+  {skill: "JavaScript"},
+  {skill: "TypeScript"},
+  {skill: "MySQL"},
+  {skill: "Django"},
+  {skill: "OOPS"},
+  {skill: "DSA"},
+  {skill: "Grafana"},
+  {skill: "Terraform"}
 ]
