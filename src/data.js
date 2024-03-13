@@ -54,6 +54,5 @@ export const skills = [
   {skill: "Django"},
   {skill: "OOPS"},
   {skill: "DSA"},
-  {skill: "Grafana"},
-  {skill: "Terraform"}
+  {skill: "Grafana"}
 ]
